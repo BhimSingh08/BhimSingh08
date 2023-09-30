@@ -9,7 +9,7 @@
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Web Development, Data Structures and Alogrithms.</li>
   <li>💼 I'm a 4rd year student at VIT</li>
-  <li>🧐 Portfolio Website, https://bhimsingh-portfolio.netlify.app/</li>
+  <li>🧐 Portfolio Website, https://bhimsinghportfolio.netlify.app/</li>
   <li>📫 How to Reach me, bhimsingh08072001@gmail.com</li>
 </ul>
 
